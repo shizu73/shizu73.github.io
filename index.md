@@ -1,12 +1,11 @@
 ## Welcome to GitHub Pages 「こんにちは！」
 
-Git Hubのスタディを兼ねて、自分のページを作成してみています。
+Git Hubのスタディを兼ねて、自分のページを作成してみています。  
+まずはテンプレートを使ってシンプルに！  
+他のページも作ってリンクしてみようかな。  
 
-まずはテンプレートを使ってシンプルに！
-
-他のページも作ってリンクしてみようかな。
-
-改行をどうしたらいいのかわからないよ？
+改行をどうしたらいいのかわからないよ？  
+半角スペース２つでいけるみたい
 
 You can use the [editor on GitHub](https://github.com/shizu73/shizu73.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
